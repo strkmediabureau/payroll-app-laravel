@@ -1,4 +1,4 @@
-# Mikko Payroll APP
+# Payroll APP
 
 This application calculates payroll dates, built with Laravel.
 The API provides all data for the frontend application and is developed locally using **DDEV** with **Docker**.
